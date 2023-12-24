@@ -16,7 +16,7 @@
 -include device/lenovo/scx35-common/BoardConfigCommon.mk
 
 # RIL
-BOARD_RIL_CLASS += device/lenovo/scx30g2-common/ril
+BOARD_RIL_CLASS += ../../device/lenovo/scx30g2-common/ril
 
 # System properties
 TARGET_SYSTEM_PROP += device/lenovo/scx30g2-common/system.prop
